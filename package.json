@@ -1,0 +1,14 @@
+{
+  "name": "svg2png",
+  "version": "1.0.0",
+  "description": "将svg图片转化为png文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "yp",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.29.3"
+  }
+}
