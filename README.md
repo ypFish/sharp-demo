@@ -1,7 +1,7 @@
 # node sharp 实践
 使用插件：sharp  
 使用方法：
-+ `yarn install ` 安装sharp依赖
++ `yarn install ` 通过 yarn 安装sharp依赖
 + `npm run test` 执行脚本文件index.js
 
 ---
